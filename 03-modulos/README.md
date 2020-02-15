@@ -1,4 +1,4 @@
-# Conceptos básicos
+# Módulos
 <img src="img/grupo.jpg" width="700">
 
 ## Descripción
